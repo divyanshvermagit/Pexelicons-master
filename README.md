@@ -1,5 +1,5 @@
 
-Travel website ft. Dream-Destinations
-Demo Link - https://divyanshvermagit.github.io/Dream-Destination/
 
-Travel website (html,css,javascript)
+Demo Link - https://divyanshvermagit.github.io/Pexelicons-master/
+
+Customizable icons (html,css,javascript)
